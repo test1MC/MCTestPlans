@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Testing Resources">
+        <TocEntry Title="Debug Ribbon" Link="/Content/QA/TestPlans/Flare/!TestingResources/Debug Ribbon.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/QA/TestPlans/!TestingResources/Testing Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="New Feature Checklists">
+            <TocEntry Title="General Testing" Link="/Content/QA/TestPlans/!TestingResources/New Feature Checklists/General Testing.htm">
+            </TocEntry>
+            <TocEntry Title="New Feature Checklist" Link="/Content/QA/TestPlans/!TestingResources/New Feature Checklists/New Feature.htm" />
+            <TocEntry Title="Flare Project:&#160;New File Checklist" Link="/Content/QA/TestPlans/!TestingResources/New Feature Checklists/New File Checklist.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/QA/TestPlans/!TestingResources/New Feature Checklists/Flare Modules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Microsoft UI Guidelines">
+            <TocEntry Title="UI Guidelines vs. Usability Testing" Link="/Content/QA/TestPlans/!TestingResources/Microsoft UI Guidelines/UI Guidelines vs. Usability Testing.htm" />
+        </TocEntry>
+        <TocEntry Title="FTP Server Info" Link="/Content/QA/TestPlans/!TestingResources/FTP Server Info.htm" />
+        <TocEntry Title="License Keys" Link="/Content/QA/TestPlans/!TestingResources/License Keys.htm" />
+        <TocEntry Title="Microsoft UI Guidelines" Link="/Content/QA/TestPlans/!TestingResources/MIcrosoft UI Guidelines.htm" />
+        <TocEntry Title="Update Dashboard Steps" Link="/Content/QA/TestPlans/!TestingResources/Update Dashboard Steps.htm" />
+        <TocEntry Title="Test Email Addresses" Link="/Content/QA/TestPlans/!TestingResources/Test Email Addresses.htm" />
+    </TocEntry>
+</CatapultToc>

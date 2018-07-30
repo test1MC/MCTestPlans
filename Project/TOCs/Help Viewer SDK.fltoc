@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Help Viewer SDK" Link="/Content/QA/TestPlans/Help Viewer SDK/Help Viewer SDK.htm">
+        <TocEntry Title="Help Viewer SDK Setup" Link="/Content/QA/TestPlans/Help Viewer SDK/General/Install Uninstall/Install Uninstall.htm" />
+        <TocEntry Title="Help Viewer Client Tester">
+            <TocEntry Title="Client Tester" Link="/Content/QA/TestPlans/Help Viewer SDK/API/MadCap Help Viewer Client Tester UI.htm" />
+        </TocEntry>
+        <TocEntry Title="Help Viewer Embedded Client Tester">
+            <TocEntry Title="Embedded Client Tester" Link="/Content/QA/TestPlans/Help Viewer SDK/API/MadCap Help Viewer Embedded Client Tester UI.htm" />
+        </TocEntry>
+        <TocEntry Title="Help Viewer Embedded Client Tester Wpf">
+            <TocEntry Title="Embedded Client Tester Wpf" Link="/Content/QA/TestPlans/Help Viewer SDK/API/MadCap Help Viewer Embedded Client Tester Wpf UI.htm" />
+        </TocEntry>
+        <TocEntry Title="Help Viewer Merge Module Tester">
+            <TocEntry Title="Install Uninstall" Link="/Content/QA/TestPlans/Help Viewer SDK/API/MadCap Help Viewer Merge Module Tester Install.htm">
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

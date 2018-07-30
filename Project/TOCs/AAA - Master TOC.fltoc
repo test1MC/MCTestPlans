@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/QATestPlans.htm" />
+  <TocEntry
+    Title="Servers"
+    Link="https://itops.madcapsoftware.com/kb/faq.php?id=75"
+    StartSection="false"
+    ReplaceMergeNode="false"
+    FrameName="_blank" />
+  <TocEntry
+    Title="Release Notes"
+    Link="file://winesap/RnDIntranet/Subsystems/TestPlans/Subsystems/ReleaseNotes/ReleaseNotes.mcwebhelp"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Testing Resources"
+    Link="/Project/TOCs/Testing Resources.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="LICENSING"
+    Link="file://winesap/RnDIntranet/Subsystems/TestPlans/Subsystems/Licensing/Licensing.mcwebhelp"
+    ReplaceMergeNode="true"
+    ComputeToc="false" />
+  <TocEntry
+    Title="Analyzer Test Plans"
+    Link="/Project/TOCs/Analyzer.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Capture Test Plans"
+    Link="/Project/TOCs/Capture.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="DocToHelp"
+    Link="/Project/TOCs/DocToHelp.fltoc" />
+  <TocEntry
+    Title="Feedback Test Plans"
+    Link="/Project/TOCs/Feedback.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Flare Test Plans"
+    Link="/Project/TOCs/Flare.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Help Viewer Test Plans"
+    Link="/Project/TOCs/Help Viewer.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Help Viewer SDK Test Plans"
+    Link="/Project/TOCs/Help Viewer SDK.fltoc" />
+  <TocEntry
+    Title="Lingo Test Plans"
+    Link="/Project/TOCs/Lingo.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="MadCap Central"
+    Link="/Project/TOCs/MadCap Central.fltoc" />
+  <TocEntry
+    Title="Mimic Test Plans"
+    Link="/Project/TOCs/Mimic.fltoc"
+    ReplaceMergeNode="true" />
+  <TocEntry
+    Title="Pulse Test Plans"
+    Link="/Project/TOCs/Pulse.fltoc"
+    ReplaceMergeNode="true" />
+</CatapultToc>

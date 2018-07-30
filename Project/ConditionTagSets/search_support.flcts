@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet Comment="My set of condition tags">
+    <ConditionTag Comment="" Name="HTML5 No Skin" BackgroundColor="Blue" />
+    <ConditionTag Comment="" Name="Air" BackgroundColor="Red" />
+    <ConditionTag BackgroundColor="#008000" Name="CHM" Comment="" />
+    <ConditionTag BackgroundColor="#ffa500" Name="Dotnet" Comment="" />
+    <ConditionTag BackgroundColor="#8b008b" Name="HTML5 Tripane Static" Comment="" />
+    <ConditionTag BackgroundColor="#00bfff" Name="Server-HTML5 None" Comment="" />
+    <ConditionTag BackgroundColor="#00ff00" Name="Server-WHplus" Comment="" />
+    <ConditionTag BackgroundColor="#8b4513" Name="Webhelp" Comment="" />
+    <ConditionTag BackgroundColor="#ff00ff" Name="Mobile" Comment="" />
+    <ConditionTag BackgroundColor="#2f4f4f" Name="HTML5 Top Nav" Comment="" />
+    <ConditionTag BackgroundColor="#9acd32" Name="Server-HTML5 Top Nav" Comment="" />
+    <ConditionTag BackgroundColor="#fa8072" Name="Server-HTML5 Tripane Responsive" Comment="" />
+    <ConditionTag BackgroundColor="#ff0000" Name="Server-HTML5 Tripane Static" Comment="" />
+    <ConditionTag BackgroundColor="#0000ff" Name="HTML5 Tripane Responsive" Comment="" />
+</CatapultConditionTagSet>

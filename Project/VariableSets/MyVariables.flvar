@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
+    <Variable Comment="" Name="PhoneNumber">858 123 45679</Variable>
+    <Variable Name="TimeSaved" Comment="" Type="DateTimeManual" LastUpdated="2015-03-13T11:17:04.6078048-07:00">MMMM dd, yyyy hh:mm:ss tt</Variable>
+</CatapultVariableSet>
